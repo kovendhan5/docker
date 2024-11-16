@@ -1,3 +1,2 @@
-from node:20.0
-work add .
+from node:20.0.0
 run npm build
